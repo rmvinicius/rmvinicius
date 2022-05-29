@@ -2,8 +2,8 @@
 - 👀 Sou formado em Redes de computadores e interessado em aumentar meu conhecimento na área de developer...
 - 🌱 Estou estudando HTML5, CSS3, JavaScript, ReactjS, SQL, Java...
 - 📫 Você pode me encontrar em:
-  - :e-mail: viniciusdarosamendes@gmail.com
-  - :link: linkedin.com/in/vinícius-da-rosa-mendes-b12269a0/
+  - E-mail: viniciusdarosamendes@gmail.com
+  - Linkedin: [linkedin.com/in/vinícius-da-rosa-mendes-b12269a0/](linkedin.com/in/vinícius-da-rosa-mendes-b12269a0/)
 
 
 ------------------------------------------------------------------------------------------------------------------------------
