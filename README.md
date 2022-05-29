@@ -16,7 +16,7 @@
 
 - 📫 You can reach me...
 
-  - :e-mail: viniciusdarosamendes@gmail.com
-  - :link: linkedin.com/in/vinícius-da-rosa-mendes-b12269a0/
+  - E-mail: viniciusdarosamendes@gmail.com
+  - Linkedin: [linkedin.com/in/vinícius-da-rosa-mendes-b12269a0/](linkedin.com/in/vinícius-da-rosa-mendes-b12269a0/)
 
   
