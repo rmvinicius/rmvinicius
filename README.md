@@ -5,17 +5,12 @@
   - E-mail: viniciusdarosamendes@gmail.com
   - Linkedin: [https://www.linkedin.com/in/vin%C3%ADcius-da-rosa-mendes-b12269a0/](https://www.linkedin.com/in/vin%C3%ADcius-da-rosa-mendes-b12269a0/)
 
-
-------------------------------------------------------------------------------------------------------------------------------
+-----------------
 
 - 👋 Hi, my name is Vinicius...
-
 - 👀 I'm graduated in Computer Network and interested to increase my knowledge in Development...
-
 - 🌱 I'm studying HTML5, CSS3, JavaScript, ReactjS, SQL, Java...
-
 - 📫 You can reach me...
-
   - E-mail: viniciusdarosamendes@gmail.com
   - Linkedin: [https://www.linkedin.com/in/vin%C3%ADcius-da-rosa-mendes-b12269a0/](https://www.linkedin.com/in/vin%C3%ADcius-da-rosa-mendes-b12269a0/)
 
