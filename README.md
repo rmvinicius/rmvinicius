@@ -12,6 +12,6 @@
 - 🌱 I'm studying HTML5, CSS3, JavaScript, ReactjS, SQL, Java...
 - 📫 You can reach me...
   - E-mail: viniciusdarosamendes@gmail.com
-  - Linkedin: [https://www.linkedin.com/in/vin%C3%ADcius-da-rosa-mendes-b12269a0/](https://www.linkedin.com/in/vin%C3%ADcius-da-rosa-mendes-b12269a0/)
+  - Linkedin: [https://www.linkedin.com/in/viniciusdarosamendes/](https://www.linkedin.com/in/viniciusdarosamendes/)
 
   
